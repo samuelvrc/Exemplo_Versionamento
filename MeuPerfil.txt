@@ -1,4 +1,5 @@
 Nome: Samuel  
 Sobrenome: Viana Rodrigues 
+Email: samuel.vrc10@gmail.com
 Idade: 20
 Altura: 1.78
